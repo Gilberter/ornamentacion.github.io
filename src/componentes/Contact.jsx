@@ -29,10 +29,10 @@ const Contact = () => {
               <div className='flex-row'>
                 <a className='underline' href="https://www.facebook.com/profile.php?id=100081013570608"><i><TiSocialFacebook /></i></a><a className='underline' href="https://www.facebook.com/profile.php?id=100081013570608"><p>Ornamentación Vanegas</p></a></div>
               <div className='flex-row'>
-                <a className='underline' href="">
+                <a className='underline' href="uw">
                   <i><TiSocialInstagram /></i>
                 </a> 
-                <a className='underline' href="">
+                <a className='underline' href="ywy">
                   <p>Ornamentación Vanegas</p>
                 </a>
               </div>
